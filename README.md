@@ -1,9 +1,13 @@
 # Data Structures and Algorithms in Python
 数据结构与算法（Python语言实现）书中源码及课后习题
 
+书中源码会穿插一些关键性的笔记。
+
+
+
 * 第1章    Python语言入门
   * [书中源码](Code_Unit_1.ipynb)
-  * [课后习题]
+  * [课后习题](Exercise_Unit_1.ipynb)
 * 第2章    面向对象编程
   * 书中源码
   * 课后习题
